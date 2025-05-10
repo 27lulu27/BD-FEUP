@@ -1,5 +1,5 @@
 # FEUP-BD 2023/2024
-Final project in sqlite3 for the Databases curricular unit.
+Final Project in sqlite3 for the Databases curricular unit.
 
 ## Project Infos
 - Date: 2nd Year, 1st Semester
